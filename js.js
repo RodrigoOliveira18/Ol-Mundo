@@ -1,1 +1,4 @@
-alert ("Olá Mundo")
+alert("Olá Mundo")
+
+
+document.write("Hello World")
